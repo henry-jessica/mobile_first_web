@@ -43,7 +43,7 @@ const swiper = new Swiper('.swiper-container', {
   keyboard: true
 })
 
-// ScrollRevel :
+// ScrollRevel:
 const scrollReveal = ScrollReveal({
   origin: 'top',
   distance: '30px',
