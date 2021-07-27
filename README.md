@@ -18,7 +18,7 @@
   <img alt=" " src=" " width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed with the following technologies:
 
